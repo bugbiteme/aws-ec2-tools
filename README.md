@@ -7,5 +7,6 @@ Shell script to launce a t2.micro instance
 ## get-ec2-running-instances.py
 Python script that outputs all running python instances
 
-## terminate_ec2_all.sh *(USE WITH CAUTION!!!! THIS WILL Terminate ALL INSTANCES!!!!)
+## terminate_ec2_all.sh 
+### (USE WITH CAUTION!!!! THIS WILL Terminate ALL INSTANCES!!!!)
 Shell script to terminate all running ec2 instances
